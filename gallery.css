@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+    
+.artsec1 {
+background-color: grey;
+display:flex;
+height: 100%;
+
+}
